@@ -113,13 +113,13 @@ To get started with Algo Arena, follow these steps:
       ```
     - Create a `.env` file in the server directory with the following variables:
       ```env
-     PORT=
-     MONGODB_URI=
-     JWT_SECRET=mysecret
-     NODE_ENV=
-     CLOUDINARY_CLOUD_NAME=
-     CLOUDINARY_API_KEY=
-     CLOUDINARY_API_SECRET=
+      PORT=my_port
+MONGODB_URI=mongodb_uri
+JWT_SECRET=jwt_secret
+NODE_ENV=node_env
+CLOUDINARY_CLOUD_NAME=cloudinary_cloud_name
+CLOUDINARY_API_KEY=cloudinary_api_key
+CLOUDINARY_API_SECRET=cloudinary_api_secret
       ```
     - Install dependencies and run the backend server:
       ```bash
