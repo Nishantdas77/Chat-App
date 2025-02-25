@@ -45,9 +45,9 @@ frontend/
 │   ├── App.jsx            
 │   │   └── ...
 │   ├── main.jsx           
-│   │   └── ...
-│   ├── index.css             # css file
-│      └── ...
+│   │   
+│   ├── index.css             
+│      
 │     
 │              
 │  
@@ -74,7 +74,7 @@ backend/
 │   ├── routes/            #API route definitions
 │   │   └── ...
 │   ├── index.js           # server file
-│      └── ...
+│      
 │   
 ├── .env                   # Environment variables
 ├── package.json           # Project dependencies and scripts
